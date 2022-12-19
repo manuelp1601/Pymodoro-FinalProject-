@@ -13,7 +13,7 @@ My app ended up being simpler than i wanted, but i got the modular proogramming 
 import tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import messagebox
-from background import settings
+from settingsWIn import settings
 import time
 
 
